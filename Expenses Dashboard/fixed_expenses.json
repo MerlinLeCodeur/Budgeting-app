@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f01dbd9c7e1f4f709994b49352503a4d",
+    "start_date": "2026-10-01",
+    "day": 1,
+    "amount": 535.0,
+    "category": "Rent",
+    "description": "rent",
+    "spread_months": "1",
+    "generated": [
+      "2026-10"
+    ]
+  },
+  {
+    "id": "477724218831481c8d1b564888a6eb46",
+    "start_date": "2026-10-01",
+    "day": 1,
+    "amount": 535.0,
+    "category": "Rent",
+    "description": "rent",
+    "spread_months": "1",
+    "generated": [
+      "2026-10"
+    ]
+  }
+]

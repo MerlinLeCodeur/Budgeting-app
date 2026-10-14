@@ -1,0 +1,32 @@
+{
+  "starting_cash": 19894.28,
+  "cash_start_date": "2026-09-29",
+  "snapshots": [
+    {
+      "date": "2026-09-28",
+      "investments": 9323.74,
+      "investments_breakdown": {
+        "CHF": 8633.0,
+        "EUR": 0.0,
+        "USD": 830.22,
+        "EUR_CHF": 1.0,
+        "USD_CHF": 0.832
+      },
+      "crypto": 4041.34,
+      "other": 0.0
+    },
+    {
+      "date": "2026-10-09",
+      "investments": 9995.89,
+      "investments_breakdown": {
+        "CHF": 9389.0,
+        "EUR": 0.0,
+        "USD": 729.61,
+        "EUR_CHF": 1.0,
+        "USD_CHF": 0.8318
+      },
+      "crypto": 3734.76,
+      "other": 0.0
+    }
+  ]
+}
